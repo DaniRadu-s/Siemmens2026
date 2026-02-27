@@ -1,0 +1,14 @@
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\bin\Debug\net8.0\ElectronicStore.exe
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\bin\Debug\net8.0\ElectronicStore.deps.json
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\bin\Debug\net8.0\ElectronicStore.runtimeconfig.json
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\bin\Debug\net8.0\ElectronicStore.dll
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\bin\Debug\net8.0\ElectronicStore.pdb
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfoInputs.cache
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.AssemblyInfo.cs
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.dll
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\refint\ElectronicStore.dll
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.pdb
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ElectronicStore.genruntimeconfig.cache
+C:\Users\mariu\Desktop\ce vreau eu\materii sem1 an3\Siemmens\ElectronicStore\ElectronicStore\obj\Debug\net8.0\ref\ElectronicStore.dll
